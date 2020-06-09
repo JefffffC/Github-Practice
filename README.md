@@ -18,3 +18,4 @@ To accomplish this, try the following steps:
 
 ## Now, try to add a sentence about yourself below this line.
 ## Hi, I'm Rongzheng and I'm an ELDP intern at RBI
+## Hello, I'm Yueying and I'm currently a master student at Duke.
